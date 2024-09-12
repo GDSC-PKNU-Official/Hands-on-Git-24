@@ -1,6 +1,6 @@
 # Hands-on-Git-24
 조원준
 
-hihihi
+안녕하세요.
 hhihihihihihihihihihi
 
